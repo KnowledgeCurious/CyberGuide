@@ -1,19 +1,24 @@
 # CyberGuide
 
-An interactive, browser-based learning platform for cybersecurity education — built to guide learners from networking fundamentals all the way to Security Architect.
+An interactive, browser-based learning platform for cybersecurity and AI engineering education — built to guide learners from networking fundamentals all the way to Security Architect, Offensive Security, and practical AI Engineering.
 
 ## What It Is
 
-CyberGuide teaches cybersecurity concepts through **learning chains**: each concept shows the foundational knowledge it builds on and the advanced topics it unlocks. Instead of memorizing isolated facts, you see how everything connects.
+CyberGuide teaches concepts through **learning chains**: each concept shows the foundational knowledge it builds on and the advanced topics it unlocks. Instead of memorizing isolated facts, you see how everything connects.
 
-Coverage spans four learning paths:
+Coverage spans nine learning paths:
 
-| Path | Certification Focus |
+| Path | Focus |
 |------|-------------------|
 | Foundations | Networking essentials (OSI, TCP/IP, DNS, DHCP, HTTP/S) |
 | Network+ | CompTIA N10-009 |
 | Security+ | CompTIA SY0-701 |
+| Offensive Security | Ethical hacking — recon through AD attacks, reporting (PTES), and the OSCP roadmap |
+| AI Engineering | Practical AI-building skills — LLMs, prompting, APIs, RAG, tool use, agents, evals, deployment, safety |
+| Machine Learning | Python/SQL/stats fundamentals through ML algorithms, deep learning, and MLOps |
 | Architect Path | Security architecture, cloud security, IAM, threat modeling |
+| Cryptography | Encryption, keys, protocols, and attacks |
+| Quick Reference | Port numbers, acronyms, and exam-day fast facts |
 
 Every concept includes:
 - A step-by-step **learning chain** showing conceptual flow

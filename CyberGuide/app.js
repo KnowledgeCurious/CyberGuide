@@ -397,7 +397,7 @@ function el(tag, attrs = {}, text = '') {
 }
 
 function tagLabel(tag) {
-  return { net: 'Net+', sec: 'Sec+', both: 'Both', arch: 'Architect', pentest: 'Pentest', ml: 'ML' }[tag] || tag;
+  return { net: 'Net+', sec: 'Sec+', both: 'Both', arch: 'Architect', pentest: 'Pentest', ml: 'ML', ai: 'AI Eng' }[tag] || tag;
 }
 
 // ── Particle network background ────────────────────────────────────────────
